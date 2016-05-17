@@ -1,0 +1,28 @@
+name: Hattac Precast
+favicon: null
+layout_spectrum: 0.3875201737973839
+typography_spectrum: 0.10730203031562269
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7221000243443996
+  lightness: 0.34241257165558636
+  saturation: 0.8009552345611155
+  rhythmicContrast: 0.20640654116868973
+purpose: []
